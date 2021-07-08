@@ -16,7 +16,6 @@
 
 # Expertise
 
-
 ## Programming Languages
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -39,6 +38,9 @@
 <img align="left" alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
 
 <img align="left" alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
+
+<br>
+<br>
 
 ## Hosting/SaaS
 
