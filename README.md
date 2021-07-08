@@ -4,7 +4,6 @@
 🌱 I’m currently learning design patterns and Front-end Architecture in Depth
 
 <br>
-<br>
 
 😄 Pronouns:He/Him
 
@@ -22,9 +21,9 @@
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
+<img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
 
 <br>
 <br>
@@ -80,18 +79,3 @@
 
 <br>
 <br>
-
-<!--
-**samirllama/samirllama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as a Product Engineer, building a digital ecommerce platform for car sales.
-- 🌱 I’m currently learning design patterns and Front-end Architecture in Depth
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-- ⚡ Fun fact: ...
--->
