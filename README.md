@@ -16,7 +16,6 @@
 
 # Expertise
 
-<br>
 
 ## Programming Languages
 
@@ -27,7 +26,6 @@
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
-
 
 <br>
 <br>
@@ -42,7 +40,6 @@
 
 <img align="left" alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
 
-
 ## Hosting/SaaS
 
 <img align="left" alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
@@ -53,14 +50,12 @@
 
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
-
 <br>
 <br>
 
 ## Servers
 
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
-
 
 <br>
 <br>
@@ -73,7 +68,6 @@
 
 <img align="left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
-
 <br>
 <br>
 
@@ -81,7 +75,6 @@
 
 <img align="left" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white" />
 <img align="left" alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white" />
-
 
 <br>
 <br>
