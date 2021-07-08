@@ -16,6 +16,10 @@
 
 # Expertise
 
+
+<br>
+<br>
+
 ## Programming Languages
 
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -26,6 +30,9 @@
 
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
 
+
+<br>
+<br>
 
 ## Frameworks
 
@@ -49,10 +56,16 @@
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
 
+<br>
+<br>
+
 ## Servers
 
 <img align="left" alt="Jenkins" src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 
+
+<br>
+<br>
 
 ## Databases
 
