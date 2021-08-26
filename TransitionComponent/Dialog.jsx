@@ -20,3 +20,4 @@ class Dialog extends React.Component {
 
 
 //https://css-tricks.com/animating-between-views-in-react/
+// https://codesandbox.io/s/93z163xz44?file=/src/index.js
