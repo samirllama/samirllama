@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Circle } from "./CircleIcon";
-import "./Navigation.scss";
+import "./styles.scss";
 import classnames from "classnames";
 
 const NavBurger = () => {
