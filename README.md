@@ -1,8 +1,5 @@
 ### Hi there 👋
 🦖 I am fullstack Software Engineer based out of Chicago.
-👨🏽‍💻 I’m currently working as a Product Engineer, building a digital ecommerce platform for car sales.
-🌱 I’m currently learning design patterns and Front-end Architecture in Depth
-
 <br>
 
 ## Connect with me
@@ -10,7 +7,6 @@
 
 <br>
 <br>
-
 
 ## Programming Languages
 
