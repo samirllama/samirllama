@@ -1,5 +1,5 @@
 ### Hi there 👋
-🦖 I am fullstack Software Engineer based out of Chicago.
+🦖 I'm Samir, passionate Software Engineer based out of Chicago.
 <br>
 
 ## Connect with me
