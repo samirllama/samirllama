@@ -22,6 +22,9 @@
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 
+<img align="left" alt="python" src="https://img.shields.io/badge/python-yellow?logo=python" />
+                                         
+<img align="left" alt="go" src="https://img.shields.io/badge/go-black?logo=go" />
 <img align="left" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql" />
 
 <br>
