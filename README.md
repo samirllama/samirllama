@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Samir, 🛠️ Software Engineer. I code. I break stuff. I fix it better.
+🛠️ I'm Samir. I code. I break stuff. I fix it better.
 <br>
 
 ## Connect with me
