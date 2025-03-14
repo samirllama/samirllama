@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 I'm Samir, 🛠️ Software Engineer. I code. I break stuff. I fix it better.
 <br>
@@ -6,9 +7,8 @@ I'm Samir, 🛠️ Software Engineer. I code. I break stuff. I fix it better.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-tamang-a0049a198)
 
 <br>
-<br>
 
-## Technical Expertise7
+## Technical Expertise
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
