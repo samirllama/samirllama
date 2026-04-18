@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Samir</h1>
 
 <p>Engineering for <strong>performance</strong> and <strong>inclusion</strong> — because latency is a bug and accessibility is a fundamental requirement.</p>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 
 <h2 align="left">Technical Core</h2>
 <ul>
@@ -61,7 +61,7 @@
 
 </br>
 <h2 align="left">📊 GitHub Stats</h2>
-
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samirllama&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirllama&theme=radical" />
