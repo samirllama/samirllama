@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Samir</h1>
+<h1 align="left">Hi 👋, I'm Samir</h1>
 
-Engineering for <strong>performance</strong> and <strong>inclusion</strong> — because latency is a bug and accessibility is a fundamental requirement.
-
-</p>
+<p>Engineering for <strong>performance</strong> and <strong>inclusion</strong> — because latency is a bug and accessibility is a fundamental requirement.</p>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <h2 align="left">Technical Core</h2>
-
 <ul>
   <li><strong>AI Orchestration & RAG Systems</strong> — Bridging the gap between LLMs and production through Retrieval-Augmented Generation and intelligent agent architecture.</li>
   <li><strong>Distributed Systems & Cloud-Native Architecture</strong> — Designing event-driven microservices and scalable APIs utilizing AWS, Go, and Node.js.</li>
