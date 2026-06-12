@@ -57,15 +57,16 @@
 <img src="https://skillicons.dev/icons?i=python,go,js,ts&perline=4&theme=dark" />
 
 <h3 align="left">Dev Tools & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,fastapi,nodejs,express,postgresql,mysql,mongodb,redis,dynamodb,aws,docker,kubernetes,terraform,github,jest,cypress,figma,postman,graphql,kafka&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,fastapi,nodejs,express,postgresql,mysql,mongodb,redis,dynamodb,aws,docker,kubernetes,terraform,jest,cypress,figma,postman,graphql,kafka,d3,rabbitmq&perline=4&theme=dark" />
 
 <h3 align="left">AI & ML Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=python&perline=4&theme=dark" />
-<p align="left">
-  <strong>LangChain</strong> • <strong>LangGraph</strong>
-</p>
+<img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch,sklearn&perline=4&theme=dark" />
 
-</br>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
 <h2 align="left">📊 GitHub Stats</h2>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 <p align="center">
