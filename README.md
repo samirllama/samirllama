@@ -21,7 +21,7 @@
         <p>RAG agent</p>
         <p><strong>Python, Google Gen AI, Natural Language Toolkit (NLTK) </strong></p>
         <p align="center">
-            <a href="https://github.com/samirllama/project1" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=white"/></a>
+            <a href="https://github.com/samirllama/project1" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=w[...]
       </p>
     </td>
     <td width="50%" valign="top">
@@ -34,7 +34,7 @@
         </p>
         <p><strong>React, TypeScript, WebSockets, Vite </strong></p>
         <p align="center">
-            <a href="https://github.com/samirllama/project2" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=white"/></a>
+            <a href="https://github.com/samirllama/project2" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=w[...]
         </p>
     </td>
   </tr>
@@ -45,7 +45,7 @@
         <p>Terminal based real-time chat application</p>
         <p><strong>Go, PostgreSQL, Docker, Websockets, GCP </strong></p>
         <p align="center">
-            <a href="https://github.com/samirllama/project3" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=white"/></a>
+            <a href="https://github.com/samirllama/project3" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Project Repo&color=228B22&style=plastic&logo=github&logo-color=w[...]
         </p>
     </td>
       <tr>
@@ -57,7 +57,13 @@
 <img src="https://skillicons.dev/icons?i=python,go,js,ts&perline=4&theme=dark" />
 
 <h3 align="left">Dev Tools & Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,fastapi,nodejs,express,postgresql,mysql,mongodb,redis,dynamodb,aws,docker,kubernetes,terraform,github,jest,cypress,figma,postman&perline=11&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,django,fastapi,nodejs,express,postgresql,mysql,mongodb,redis,dynamodb,aws,docker,kubernetes,terraform,github,jest,cypress,figma,postman,graphql,kafka&perline=4&theme=dark" />
+
+<h3 align="left">AI & ML Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=python&perline=4&theme=dark" />
+<p align="left">
+  <strong>LangChain</strong> • <strong>LangGraph</strong>
+</p>
 
 </br>
 <h2 align="left">📊 GitHub Stats</h2>
@@ -67,7 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samirllama&theme=radical" />
 </p>
 
-<h3 align="left">📫 Let’s Connect:</h3>
+<h3 align="left">📫 Let's Connect:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/samirlama-dev" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
